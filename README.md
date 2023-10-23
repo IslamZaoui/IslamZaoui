@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Islam Zaoui and I'm a student at the Universite of M'sila from Algeria.</p>
+<p align="left">My name is Islam Zaoui and I'm a student at the University of M'sila from Algeria.</p>
 
 ###
 
