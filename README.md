@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Newbie Developer<br>📚 I'm currently learning Sveltekit<br>🎯 Goals: Nothing currently/p>
+<p align="left">✨ Newbie Developer<br>📚 I'm currently learning Sveltekit<br>🎯 Goals: Nothing currently</p>
 
 ###
 
