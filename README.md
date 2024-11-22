@@ -1,35 +1,25 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg" />
+    <img src="header.svg" alt="Islam Zaoui" />
+  </picture>
+</p>
 
-###
+## About me 👋
 
-<p align="left">My name is Islam Zaoui and I'm a student at the University of M'sila from Algeria.</p>
+- I'm a Full-stack web developer
+- graduated from the University of M'sila with a license in computer science
+- I have 1 year of experience in the field of web development
+- I have a passion for programming and always learning new things
+- Reach me on mu portfolio [islamzaoui.top](https://islamzaoui.top)
 
-###
+## Technologies I know 👨‍💻
 
-<h2 align="left">About me</h2>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,svelte,tauri,git,bun,cs,dotnet" alt="Islam Zaoui" />
 
-###
+## Contact me 👇
 
-<p align="left">✨ Newbie Developer<br>📚 I'm currently learning Sveltekit<br>🎯 Goals: Nothing currently</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-</div>
-
-###
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islamzaoui)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/IslamZaoui_)
+[![Email](https://img.shields.io/badge/email-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@islamzaoui.top)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://islamzaoui.top)
