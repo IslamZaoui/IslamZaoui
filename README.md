@@ -5,21 +5,33 @@
   </picture>
 </p>
 
-## About me 👋
+## 🚀 About Me  
 
-- I'm a Full-stack web developer
-- graduated from the University of M'sila with a license in computer science
-- I have 1 year of experience in the field of web development
-- I have a passion for programming and always learning new things
-- Reach me on mu portfolio [islamzaoui.top](https://islamzaoui.top)
+- 🎓 Graduated in Computer Science from the University of M'sila  
+- 💻 Full-stack web developer with **1+ year** of experience  
+- 🔥 Passionate about programming, web security, and optimizing performance  
+- 📚 Always learning and experimenting with new technologies  
+- 🌐 Check out my portfolio: [islamzaoui.top](https://islamzaoui.top)  
 
-## Technologies I know 👨‍💻
+## 🛠️ Technologies & Tools  
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,svelte,tauri,git,bun,cs,dotnet" alt="Islam Zaoui" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,svelte,react,tauri,git,bun,cs,dotnet" alt="Technologies I use" />
+</p>
 
-## Contact me 👇
+## 📬 Get in Touch  
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islamzaoui)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/IslamZaoui_)
-[![Email](https://img.shields.io/badge/email-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@islamzaoui.top)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://islamzaoui.top)
+<p align="center">
+  <a href="https://www.linkedin.com/in/islamzaoui">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/IslamZaouiDev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:contact@islamzaoui.top">
+    <img src="https://img.shields.io/badge/Email-E4405F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://islamzaoui.top">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
